@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Strategy_Boll_arrayPerpear",
+    "className": "StrategyBoll", 
+    "symbolList":["eth.usd.q:okef","btc.usd.q:okef"],
+    "posSize": 5,
+    "miniTick": 0.001,
+    "addTick": 10,
+    "maxPos": 1,
+    "BollBar": "15m",
+    "BollPeriod": 100,
+    "EMAPeriod": 4,
+    "pctPeriod": 50,
+    "divShield": 35,
+    "pctUp": 0.05,
+    "pctDown": 0.01,
+    "addPercent": 0.015,
+    "stopLoss": 0.02,
+    "timeStopLoss": 180,
+    "signalWait": 60,
+    "atrBar": "15m",
+    "atrPeriod": 30,
+    "atrShield": 40,
+    "timeframeMap":["15m"]
+    }
+]

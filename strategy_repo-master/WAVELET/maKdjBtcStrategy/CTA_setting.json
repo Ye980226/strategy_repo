@@ -1,0 +1,31 @@
+[{
+    "timeframeMap" :
+    {"trendPeriod": "15m", "signalPeriod":"5m", 
+    "filterPeriod": "5m", "addPosPeriod":"5m"},
+
+    "lot": 1000,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+    
+    "maPeriod": 310,
+    "maType" : 0,
+
+    "fastkPeriod": 6,
+    "slowkPeriod": 8,
+    "slowkMaType": 0, 
+    "slowdPeriod": 15,
+    "slowdMaType": 0,
+
+    "lowKdjThreshold": 32,
+    "highKdjThreshold": 65,
+
+    "stopLossPct":0.02,
+    "takeProfitPct":0.03,
+    
+    "volPeriod": 15,
+    "lowVolThreshold":0.001,
+
+    "holdTime": 48000,
+    "expectReturn":0.001
+}]

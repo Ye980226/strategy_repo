@@ -1,0 +1,26 @@
+[
+    {   "name": "signalDI",
+        "className": "Strategy_signalDI",   
+        "symbolList": ["EOS-QUARTER:OKEX_fxdayu02"],
+        "mailAdd":["trading@fxdayu.com"],
+        "posSize":1,
+        "miniTick":0.001,
+        "addTick":5,
+        "diPeriod":"15m",
+        "fastPeriod":20, 
+        "slowPeriod":80, 
+        "DIshield":10,
+        "ADXPeriod":"30m",
+        "ADXpara":65,
+        "ADXshield_up":50,
+        "ADXshield_down":0,
+        "atrPeriod":30,
+        "atrShield":0,
+        "addPercent":0.03,
+        "stopLoss":0.04,
+        "maxPos":1,
+        "timeStopLoss":480, 
+        "signalWait":180, 
+        "timeframeMap":["15m","30m"]  
+    }
+]

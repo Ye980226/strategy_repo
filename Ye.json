@@ -1,0 +1,26 @@
+{
+    "eth_quarter:OKEX_YE": {
+        "floors": [5, 6, 7, 8],
+        "profits": [4, 5, 6, 7],
+        "base_unit": [60, 60, 60, 60],
+        "rev_floor": -1,
+        "out_extend": [0.9, 1, 1.1, 1.2],
+        "in_extend": [1, 1, 1.02, 1.04]
+    },
+    "eos_quarter:OKEX_YE": {
+        "floors": [5, 6, 7, 8],
+        "profits": [4, 5, 6, 7],
+        "base_unit": [25, 25, 25, 25],
+        "rev_floor": 1,
+        "out_extend": [1, 1.1, 1.2, 1.3],
+        "in_extend": [1, 1.02, 1.04, 1.06]
+    },
+    "bch_quarter:OKEX_YE": {
+        "floors": [4, 5, 6, 7, 8],
+        "profits": [4, 5, 6, 7, 8],
+        "base_unit": [15, 15, 15, 15, 15],
+        "rev_floor": 1,
+        "out_extend": [1, 1.1, 1.2, 1.3, 1.4],
+        "in_extend": [1, 1.02, 1.04, 1.06, 1.08]
+    }
+}

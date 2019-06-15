@@ -1,0 +1,41 @@
+[{
+    "timeframeMap" :
+    {"envPeriod": "30m", "signalPeriod":"5m", 
+        "filterPeriod": "5m", "addPosPeriod":"5m"},
+
+    "lot1": 150,
+    "lot2": 100,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "adxPeriod": 30,
+    "adxThreshold": 14,
+    "adxMaPeriod":40,
+    "adxMaType": 0,
+
+    "smaPeriod": 20,
+    "smaType": 0,
+    "lmaPeriod":170,
+    "envMaPeriod": 200,
+
+    "trailingPct":0.034,
+    "stopControlTime": 2,
+
+    "volPeriod":35,
+    "lowVolThreshold":0.0015,
+
+    "takeProfitFirstPct":0.05,
+    "takeProfitSecondPct":0.17,
+
+    "changeVolatilityPeriod":45,
+    "erThreshold":0.18,
+    "erSemaPeriod":12,
+    "erLemaPeriod":40,
+
+    "addPct":0.008,
+    "posTime":1,
+    "initVar": 1.4,
+    "addVar": 1,
+    "sign": "*"
+}]

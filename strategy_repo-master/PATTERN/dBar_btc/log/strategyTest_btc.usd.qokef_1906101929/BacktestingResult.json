@@ -1,0 +1,48 @@
+{
+    "symbolList": [
+        "btc.usd.q:okef"
+    ],
+    "candleTypes": [
+        "candledoublebar"
+    ],
+    "candlePeriods": [
+        "15m"
+    ],
+    "holdmins": 600,
+    "takeProfit": 0.015,
+    "stopLoss": 0.02,
+    "posSize": 10,
+    "volumeNperiod": 50,
+    "volumeStdMultuper": 2,
+    "doubleBarShrink1": 0.6,
+    "doubleBarShrink2": 30,
+    "secondMove": 0.5,
+    "timeframeMap": [
+        "5m",
+        "15m",
+        "30m"
+    ],
+    "startDate": "2018-06-01",
+    "endDate": "2019-06-09",
+    "totalDays": 374,
+    "profitDays": 124,
+    "lossDays": 100,
+    "endBalance": 1067.4967706512,
+    "maxDrawdown": -12.562658880799972,
+    "maxDdPercent": -1.2290276230807824,
+    "totalNetPnl": 67.4967706512001,
+    "dailyNetPnl": 0.18047264880000025,
+    "totalCommission": 51.84222734880001,
+    "dailyCommission": 0.1386155811465241,
+    "totalSlippage": 0.0,
+    "dailySlippage": 0.0,
+    "totalTurnover": 64802.784186000004,
+    "dailyTurnover": 173.2694764331551,
+    "totalTradeCount": 611,
+    "dailyTradeCount": 1.6336898395721926,
+    "totalReturn": 6.749677065119997,
+    "annualizedReturn": 4.331343571199998,
+    "dailyReturn": 0.018047264880000028,
+    "returnStd": 0.13883535604632732,
+    "sharpeRatio": 2.0138027751810017
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "name": "LTCArbitrage",
+        "className": "ArbitrageStrategy",
+        "symbolList": ["ltc_quarter:OKEXF_xxx","ltc_this_week:OKEXF_xxx"],
+        "posSize_day":1,
+        "posSize_night":1,
+        "maxPos_day":4,
+        "maxPos_night":4,
+        "forming":30,
+        "startTT":30,
+        "startSS":30,
+        "startTS":7200,
+        "marketRatio":5,
+        "contractMintick":0.001,
+        "stopLossMarginCall":1.5,
+        "stopLoss_Ratio":2,
+        "slipper":3,
+        "spreadBand":0.0005,
+        "floors":[0.005,0.007,0.009],
+        "rever_floors":[0,0,0],
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

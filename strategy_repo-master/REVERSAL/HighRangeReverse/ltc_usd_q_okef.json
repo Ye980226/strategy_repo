@@ -1,0 +1,28 @@
+[
+    {
+        "name": "StrategyHighRangeRev",
+        "className": "StrategyHighRangeRev",
+        "symbolList": ["LTC-QUARTER"],
+        "maxBarSize":1440,
+
+        "ATRPeriod":40,
+        "ATRLimit":0.0075,
+
+        "leftRiseBarNum":20,
+        "leftRiseRange":0.025,
+        "RiseReverseBars":60,
+        "RisePointGap":0.03,
+        "RiseProp":0.75,
+
+        "leftFallBarNum":40,
+        "leftFallRange":0.035,
+        "FallReverseBars":60,
+        "FallPointGap":0.02,
+        "FallProp":0.5,
+
+        "takeProfit":0.03,
+
+        "orderWaitingTime":3,
+        "lot":1000
+        }
+]

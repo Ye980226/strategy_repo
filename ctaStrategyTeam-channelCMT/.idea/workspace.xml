@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4c36daf-5f0b-4e8e-a7c6-8f68716e4f0b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy116.py" beforeDir="false" afterPath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiStairBtcStrategy130.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy116.py" beforeDir="false" afterPath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdBtcStrategy130.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiEosStrategy122.py" beforeDir="false" afterPath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiEosStrategy130.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy122.py" beforeDir="false" afterPath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy130.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy122.py" beforeDir="false" afterPath="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy130.py" afterDir="false" />
+    </list>
+    <ignored path="ctaStrategyTeam.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ctaStrategyTeam" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy116.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="421" column="54" lean-forward="true" selection-start-line="421" selection-start-column="54" selection-end-line="421" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiEosStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4868">
+              <caret line="221" column="43" lean-forward="true" selection-start-line="221" selection-start-column="43" selection-end-line="221" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiStairBtcStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxKdjBtcStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5705">
+              <caret line="216" column="32" selection-start-line="216" selection-start-column="32" selection-end-line="216" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMaRsiStrategy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10576">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdBtcStrategy130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5967">
+              <caret line="221" column="26" selection-start-line="221" selection-start-column="26" selection-end-line="221" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy119.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="262" column="42" lean-forward="true" selection-start-line="262" selection-start-column="42" selection-end-line="262" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy116.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>intraTradeHighDict</find>
+      <find>toExcuteOrdersID</find>
+      <find>if bar.low &lt;= self.longStop[symbol]:</find>
+      <find>self.writeCtaLog('shortStop%s'%(self.shortStop[symbol]))</find>
+      <find>print</find>
+      <find>self.writeCtaLog</find>
+      <find>holdHour</find>
+      <find>coverCheck</find>
+      <find>posDict</find>
+      <find>cover</find>
+      <find>self.buy</find>
+      <find>self.short</find>
+      <find>self.sell</find>
+      <find>ownPosDict</find>
+      <find>self.</find>
+      <find>+'0'</find>
+      <find>transactionPrice</find>
+      <find>short###</find>
+      <find>self.ownPosDict</find>
+      <find>cancelCloseOrder</find>
+      <find>evening</find>
+      <find>stopLossControl</find>
+      <find>BBANDS</find>
+      <find>bandStd2</find>
+      <find>am15</find>
+      <find>ownEveningDict</find>
+      <find>stoploss</find>
+      <find>self.coverClose</find>
+      <find>EMA</find>
+      <find>Dict</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.shortCheckExtend(bar)</replace>
+      <replace>self.sellCheckExtend(bar)</replace>
+      <replace>self.coverCheckExtend(bar)</replace>
+      <replace>self.ownPosDict</replace>
+      <replace>self.writeCtaLog</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\2018Strategy\ctaStrategyTeam\competitionStrategy\btcStrategy</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/competitionStrategy/eosStrategy/adxMacdStrategy.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy007.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy002.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEos.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy007.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy008.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy003.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy001.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy001.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/Wait/adxDiEosStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiEosStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy111.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy112.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy112.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy112.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy112.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy112.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy112.py" />
+        <option value="$PROJECT_DIR$/tickTest/testOnTickLimit.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy113.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy113.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy116.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy113.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy113.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy113.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy113.py" />
+        <option value="$PROJECT_DIR$/tickTest/fastTradingTest.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy116.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/eosStrategy/BBand.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/eosStrategy/BBandOscillator.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/eosStrategy/maCrsiEosStrategy.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy116.py" />
+        <option value="$PROJECT_DIR$/candleStickCmt/Candlestick.py" />
+        <option value="$PROJECT_DIR$/candleStickCmt/candleDef.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy119.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy122.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy122.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy126.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxKdjBtc126.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiEosStrategy122.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxKdjBtcStrategy126.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy126.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy130.py" />
+        <option value="$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy130.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="y" value="106" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ctaStrategyTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ctaStrategyTeam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ctaStrategyTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ctaStrategyTeam" type="462c0819:PsiDirectoryNode" />
+              <item name="competitionStrategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ctaStrategyTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ctaStrategyTeam" type="462c0819:PsiDirectoryNode" />
+              <item name="competitionStrategy" type="462c0819:PsiDirectoryNode" />
+              <item name="runReal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ctaStrategyTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ctaStrategyTeam" type="462c0819:PsiDirectoryNode" />
+              <item name="competitionStrategy" type="462c0819:PsiDirectoryNode" />
+              <item name="runReal" type="462c0819:PsiDirectoryNode" />
+              <item name="okefRunReal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ctaStrategyTeam" is-module-sdk="true">
+        <envs>
+          <env key="PYTHONPATH" value="D:/vnpy_fxdayu" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ctaStrategyTeam" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PYTHONPATH" value="D:/vnpy_fxdayu" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2018Strategy\ctaStrategyTeam" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\competitionStrategy\runReal" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\competitionStrategy\eosStrategy" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\runReal11\Acount888" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\runReal11\Account666" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\2019Strategy\ctaStrategyTeam\competitionStrategy\runReal\okefRunReal" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\competitionStrategy\runReal\Wait" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\runReal11\Acount6666" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\runReal11\Account666" />
+      <recent name="E:\2018Strategy\ctaStrategyTeam\ctaNov\diAdx" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runStrategy (4)">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ctaStrategyTeam" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="adxEmaIntraday" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ctaStrategyTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/onBarStrategy/adxStrategy/Trend/Intraday" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/onBarStrategy/adxStrategy/Trend/Intraday/adxEmaIntraday.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runStrategy (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ctaStrategyTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayManager1.1.3/adxStrategy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayManager1.1.3/adxStrategy/runStrategy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runStrategy (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ctaStrategyTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayManager1.1.3/BBandBreakObv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayManager1.1.3/BBandBreakObv/runStrategy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runStrategy (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ctaStrategyTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/onBarStrategy/adxStrategy/Trend/Intraday" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/onBarStrategy/adxStrategy/Trend/Intraday/runStrategy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runStrategy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ctaStrategyTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayManager1.1.3/BBandMa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayManager1.1.3/BBandMa/runStrategy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runStrategy (3)" />
+      <item itemvalue="Python.runStrategy (2)" />
+      <item itemvalue="Python.runStrategy" />
+      <item itemvalue="Python.runStrategy (4)" />
+      <item itemvalue="Python.adxEmaIntraday" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runStrategy (4)" />
+        <item itemvalue="Python.adxEmaIntraday" />
+        <item itemvalue="Python.runStrategy" />
+        <item itemvalue="Python.runStrategy (2)" />
+        <item itemvalue="Python.runStrategy (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c36daf-5f0b-4e8e-a7c6-8f68716e4f0b" name="Default" comment="" />
+      <created>1538031827039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538031827039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13224447" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30627707" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3982684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ctaNov/diAdx/diAdxStairStrategy.py</url>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy001.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/btcStrategy/adxDiStairBtcStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="196" column="63" selection-start-line="196" selection-start-column="63" selection-end-line="196" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy007.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/diAdxStairEosStrategy006.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/btcStrategy/adxMacdStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="198" column="24" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/maSarBtcStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/Wait/macdAdxStrategy001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8154">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/Wait/arPsyMaStrategy005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairBtcStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdBtcStrategy112.py" />
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/btcStrategy/erEmaBreakBtcStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/Wait/diAdxStairEosStrategy006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="78" selection-start-line="78" selection-end-line="80" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/Wait/adxDiEosStrategy111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="315" column="23" selection-start-line="315" selection-start-column="23" selection-end-line="315" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/jaqs_fxdayu/data/dataview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/666ChannelStrategy/ResearchLab/strategy/ARPSYMaStrategy/ARPSYMa_BTC_Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6291">
+          <caret line="238" selection-start-line="238" selection-end-line="250" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tickTest/fastTradingTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3483">
+          <caret line="133" selection-end-line="317" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/jaqs_fxdayu/data/py_expression_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/BBandOscillator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11772">
+          <caret line="441" column="34" selection-start-line="441" selection-start-column="34" selection-end-line="441" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Download/kktn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="255" column="47" lean-forward="true" selection-start-line="255" selection-start-column="47" selection-end-line="255" selection-end-column="47" />
+          <folding>
+            <element signature="e#30#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/adxMacdEosStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/January2019/InternshipPlan/Desktop/MACDVolume_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="22" selection-end-line="156" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy116.py" />
+    <entry file="file://$USER_HOME$/Desktop/January2019/Candle/candlestickChart/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/January2019/Candle/candlestickChart/Candlestick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tickTest/testOnTickLimit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7911">
+          <caret line="298" column="39" selection-start-line="298" selection-start-column="39" selection-end-line="298" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candleStickCmt/Candlestick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/candleStickCmt/candleDef.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/maSarEosStrategy116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="14" selection-end-line="396" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/January2019/InternshipPlan/Desktop/MACDVolume_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/Wait/erEmaBreakBtcStrategy007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6777">
+          <caret line="255" column="45" selection-start-line="255" selection-start-column="16" selection-end-line="255" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/maCrsiEosStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/maSarEosStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2036615904/talib/func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5481">
+          <caret line="203" column="10" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/666ChannelStrategy/lab2019/orderId管理/strategy_mas_arpsy_btc/strategy_mas_arpsy/MAS/masBtcStrategy_BTC002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14391">
+          <caret line="534" column="41" selection-end-line="545" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2036615904/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/eosStrategy/diAdxStairEosStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxDiStairEosStrategy116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="421" column="54" lean-forward="true" selection-start-line="421" selection-start-column="54" selection-end-line="421" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/maSarBtcStrategy116.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMacdEosStrategy119.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="262" column="42" lean-forward="true" selection-start-line="262" selection-start-column="42" selection-end-line="262" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/home.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/adxMaRsiStrategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10576">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/maSarEosStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdEosStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxMacdBtcStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5967">
+          <caret line="221" column="26" selection-start-line="221" selection-start-column="26" selection-end-line="221" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxKdjBtcStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5705">
+          <caret line="216" column="32" selection-start-line="216" selection-start-column="32" selection-end-line="216" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiStairBtcStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="219" column="18" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/competitionStrategy/runReal/okefRunReal/adxDiEosStrategy130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4868">
+          <caret line="221" column="43" lean-forward="true" selection-start-line="221" selection-start-column="43" selection-end-line="221" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "StrategyRetTrend",
+        "className": "StrategyRetTrend",
+        "symbolList": ["EOS-QUARTER:OKEX"],
+        "maxBarSize":1000,
+
+        "meanRetBars": 180,
+        "madParam" : 3,
+
+        "maxRetMeanListSize":400,
+        "EMAPeriod" : 70,
+        "meanEMAPeriod" : 250,
+        "maDiff":0.00002,
+
+        "lot" : 800,
+        "maxPos" : 1600,
+        "orderWaitingTime" : 3,
+
+        "timeframeMap" : {"sigPeriod": "5m"}
+        }
+]

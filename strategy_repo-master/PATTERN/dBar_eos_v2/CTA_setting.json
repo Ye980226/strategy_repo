@@ -1,0 +1,18 @@
+[
+    {
+        "symbolList":["eos.usd.q:okef"],
+        "candleTypes":["candledoublebar"],
+        "candlePeriods":["15m"],
+        "holdmins":600,
+        "takeProfit":0.01,
+        "firstmove":0.01,
+        "stopLoss":0.015,
+        "posSize":10,
+        "volumeNperiod":40,
+        "volumeStdMultuper":1,
+        "doubleBarShrink1":0.4,
+        "doubleBarShrink2":80,
+        "secondMove":0.4,
+        "timeframeMap":["5m","15m","30m"]
+    }
+]

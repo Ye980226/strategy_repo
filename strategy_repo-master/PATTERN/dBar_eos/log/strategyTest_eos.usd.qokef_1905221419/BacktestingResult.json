@@ -1,0 +1,49 @@
+{
+    "symbolList": [
+        "eos.usd.q:okef"
+    ],
+    "candleTypes": [
+        "candledoublebar"
+    ],
+    "candlePeriods": [
+        "15m"
+    ],
+    "holdmins": 600,
+    "takeProfit": 0.01,
+    "stopLoss": 0.015,
+    "posSize": 10,
+    "volumeNperiod": 30,
+    "volumeStdMultuper": 1,
+    "doubleBarShrink1": 0.4,
+    "doubleBarShrink2": 10,
+    "secondMove": 0.6,
+    "timeframeMap": [
+        "5m",
+        "10m",
+        "15m",
+        "30m"
+    ],
+    "startDate": "2018-06-02",
+    "endDate": "2019-05-22",
+    "totalDays": 355,
+    "profitDays": 110,
+    "lossDays": 50,
+    "endBalance": 1083.403741994335,
+    "maxDrawdown": -11.772773994233944,
+    "maxDdPercent": -1.1676080046015296,
+    "totalNetPnl": 83.40374199433506,
+    "dailyNetPnl": 0.2349401182939016,
+    "totalCommission": 24.604682451665003,
+    "dailyCommission": 0.06930896465257748,
+    "totalSlippage": 11.328732,
+    "dailySlippage": 0.03191192112676056,
+    "totalTurnover": 49209.36490333,
+    "dailyTurnover": 138.61792930515495,
+    "totalTradeCount": 488,
+    "dailyTradeCount": 1.3746478873239436,
+    "totalReturn": 8.340374199433498,
+    "annualizedReturn": 5.638562839053632,
+    "dailyReturn": 0.02349401182939016,
+    "returnStd": 0.129354549598202,
+    "sharpeRatio": 2.8137214140040703
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "StrategyEOSGridV12",
+        "className": "StrategyEOSGridV12",
+        "symbolList": ["EOS-QUARTER:OKEX"],
+        "maxBarSize":300,
+        "barPeriod" : 50,
+        "continuousCalmHours" : 10,
+        "calmMAGap" : 0.02,
+        "longMALen" : 40,
+        "shortMALen" : 15,
+        "trendEMALen" : 120,
+        "slopeLen" : 60,
+        "maxSlope" : 0.001,
+        "longMAMidMaxGap" : 0.05 ,
+        "highLowLimitMaxGap" : 0.2 ,
+        "ATRMaxValue" : 0.02  ,
+        "gridGap" : 0.005 ,
+        "gridLevel" : 7  ,
+        "stopLossWarningFilter": 0.08,
+        "gridLevelMaxPos" : 6,
+        "takeProfit" : 0.01,
+        "rencentHighLowBars": 200,
+        "lot" : 2,
+        "orderWaitingTime" : 15  ,
+
+        "waitForCloseMaxPos": 20,
+        "grid0MoveLimit":0.015,
+
+        "timeframeMap" : {"pivotPeriod": "2h", "highLowLimitPeriod": "1h", "moveStopLossPeriod":"1h","envPeriod":"1h"},
+        "mailAdd": ["tianrq10@163.com"]
+        }
+]

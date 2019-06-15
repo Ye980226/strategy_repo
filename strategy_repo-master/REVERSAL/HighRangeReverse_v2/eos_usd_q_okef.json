@@ -1,0 +1,29 @@
+[
+    {
+        "name": "StrategyHighRangeRevV2",
+        "className": "StrategyHighRangeRevV2",
+        "symbolList": ["EOS-QUARTER"],
+        "maxBarSize":1440,
+
+        "ATRPeriod":30,
+        "ATRLimit":0.01,
+
+        "leftRiseBarNum":20,
+        "leftRiseRange":0.035,
+        "RiseReverseBars":60,
+        "RisePointGap":0.01,
+        "RiseProp":1,
+
+        "leftFallBarNum":20,
+        "leftFallRange":0.035,
+        "FallReverseBars":30,
+        "FallPointGap":0.02,
+        "FallProp":0.75,
+
+        "profitLimit":0.015,
+        "moveRange":0.015,
+
+        "orderWaitingTime":3,
+        "lot":1000
+        }
+]

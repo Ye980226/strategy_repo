@@ -1,0 +1,38 @@
+[
+    {
+        "name": "StrategyBTCGridV33",
+        "className": "StrategyBTCGridV33",
+        "symbolList": ["BTC-QUARTER:OKEX"],
+        "maxBarSize": 300,
+        "barPeriod" : 15,
+        "continuousCalmHours" : 5,
+        "calmMAGap" : 0.02,
+        "longMALen" : 40,
+        "shortMALen" : 15,
+        "trendEMALen" : 90,
+        "slopeLen" : 85,
+        "maxSlope" : 0.0001,
+        "highLowLimitMaxGap" : 0.2 ,
+        "ATRMaxValue" : 0.015  ,
+        "gridlist": [10,20,30,50,80,130,210],
+
+        "otherSideMaxGrid":0,
+        "otherSideLotProp":0.8,
+        "otherSideTakeProfit":0.015,
+
+        "gridLevelRange": 0.05,
+        "profitFilter": 0.01,
+        "stopLossWarningFilter": 0.05,
+        "gridLevelMaxPos" : 6,
+        "takeProfit" : 0.01,
+        "rencentHighLowBars": 200,
+        "lot" : 2,
+        "orderWaitingTime" : 15  ,
+
+        "waitForCloseMaxPos": 20,
+        "grid0MoveLimit":0.01,
+
+        "timeframeMap" : {"pivotPeriod": "2h", "highLowLimitPeriod": "1h", "moveStopLossPeriod":"1h", "envPeriod":"1h", "gridLevelPeriod":"1h"},
+        "mailAdd": ["tianrq10@163.com"]
+        }
+]

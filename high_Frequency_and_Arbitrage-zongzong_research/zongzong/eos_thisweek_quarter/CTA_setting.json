@@ -1,0 +1,13 @@
+[
+    {
+        "name": "EOS_thisweek_quarter",
+        "className": "FishingNoramlStrategy",
+        "symbolList": ["eos_quarter:OKEX_btc","eos_this_week:OKEX_btc"],
+        "para":["0.0065","-0.001","0.001"],
+        "posSize":"2",
+        "lagtime":"120",
+        "levelRate":"20",
+        "lasttime":"60",
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

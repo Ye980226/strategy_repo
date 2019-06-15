@@ -1,0 +1,8 @@
+[
+    {
+        "name": "macd002_Strategy",
+        "className": "macd002_Strategy",
+        "symbolList": ["eos_this_week:cta8888"],
+        "mailAdd":[""]
+    }
+]

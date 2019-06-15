@@ -1,0 +1,28 @@
+[
+    {
+        "name": "StrategyHighRangeRev",
+        "className": "StrategyHighRangeRev",
+        "symbolList": ["ETH-QUARTER"],
+        "maxBarSize":1440,
+
+        "ATRPeriod":50,
+        "ATRLimit":0.0075,
+
+        "leftRiseBarNum":40,
+        "leftRiseRange":0.025,
+        "RiseReverseBars":60,
+        "RisePointGap":0.01,
+        "RiseProp":1.5,
+
+        "leftFallBarNum":10,
+        "leftFallRange":0.035,
+        "FallReverseBars":60,
+        "FallPointGap":0.03,
+        "FallProp":1.5,
+
+        "takeProfit":0.025,
+
+        "orderWaitingTime":3,
+        "lot":1000
+        }
+]

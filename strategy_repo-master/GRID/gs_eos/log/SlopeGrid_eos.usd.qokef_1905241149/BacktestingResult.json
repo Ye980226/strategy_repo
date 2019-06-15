@@ -1,0 +1,48 @@
+{
+    "name": "StrategySlopeGrid",
+    "className": "StrategySlopeGrid",
+    "mailAdd": [
+        "trading@1fxdayu.com"
+    ],
+    "symbolList": [
+        "eos.usd.q:okef"
+    ],
+    "posSize": 1,
+    "maxlines": 25,
+    "estimateWindow": 40,
+    "slopethreshold": 0.01,
+    "openPeriod": 140,
+    "openGap": 0.1,
+    "takeProfit": 0.01,
+    "stopLoss": 0.1,
+    "leaveMax": 150,
+    "timeframeMap": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+    ],
+    "startDate": "2019-05-01",
+    "endDate": "2019-05-24",
+    "totalDays": 24,
+    "profitDays": 7,
+    "lossDays": 4,
+    "endBalance": 1003.553907609,
+    "maxDrawdown": -1.8458166834999474,
+    "maxDdPercent": -0.1842422081105089,
+    "totalNetPnl": 3.5539076089999915,
+    "dailyNetPnl": 0.148079483708333,
+    "totalCommission": 0.411800391,
+    "dailyCommission": 0.017158349625,
+    "totalSlippage": 0.13518799999999997,
+    "dailySlippage": 0.005632833333333333,
+    "totalTurnover": 823.600782,
+    "dailyTurnover": 34.31669925,
+    "totalTradeCount": 78,
+    "dailyTradeCount": 3.25,
+    "totalReturn": 0.35539076090000954,
+    "annualizedReturn": 3.5539076090000954,
+    "dailyReturn": 0.014807948370833301,
+    "returnStd": 0.08334469619339606,
+    "sharpeRatio": 2.7524696855889874
+}

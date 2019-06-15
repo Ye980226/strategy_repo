@@ -1,0 +1,15 @@
+[
+    {
+        "name": "EOSimpluseV1",
+        "className": "ImpluseV1Strategy",
+        "symbolList": ["eos_this_week:OKEX_key"],
+        "takeProfitRatio":0.002,
+        "stopLossRatio":0.005,
+        "mom_move":0.003,
+        "posSize":50,
+        "maxnumber":200,
+        "openTime":0.8,
+        "holdTime":60,
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

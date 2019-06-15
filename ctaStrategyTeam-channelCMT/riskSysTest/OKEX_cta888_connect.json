@@ -1,0 +1,8 @@
+{
+    "apiKey": "a80ad2bf-38b7-4ce7-9f5c-1cd21aa4bf13",
+    "secretKey": "C9BFE58618EAA7BF1840296D89B8C96F",
+    "trace": false,
+    "symbols":[],
+    "contracts":["eos_quarter","eos_this_week"],
+    "note":""
+}

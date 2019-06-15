@@ -1,0 +1,15 @@
+[
+    {
+        "name": "regressionEmaBreakAtrStrategy",
+        "className": "regEmaBreakStrategy",
+        "symbolList": ["eos_this_week:OKEX_cta888"],
+        "mailAdd":["tianrq10@163.com", "channel@fxdayu.com"]
+    }
+,
+    {
+        "name": "regressionRsiStrategy",
+        "className": "regRsiStrategy",
+        "symbolList": ["eos_quarter:OKEX_cta888"],
+        "mailAdd":["tianrq10@163.com", "channel@fxdayu.com"]
+    }
+]

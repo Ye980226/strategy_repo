@@ -1,0 +1,38 @@
+[
+    {
+        "name": "StrategyLTCGridV33",
+        "className": "StrategyLTCGridV33",
+        "symbolList": ["LTC-QUARTER:OKEX"],
+        "maxBarSize":300,
+        "barPeriod" : 10,
+        "continuousCalmHours" : 3,
+        "calmMAGap" : 0.02,
+        "longMALen" : 50,
+        "shortMALen" : 30,
+        "trendEMALen" : 105,
+        "slopeLen" : 65,
+        "maxSlope" : 0.00005,
+        "highLowLimitMaxGap" : 0.15 ,
+        "ATRMaxValue" : 0.02  ,
+        "gridlist": [10,20,30,50,80,130,210],
+
+        "otherSideMaxGrid":0,
+        "otherSideLotProp":0.8,
+        "otherSideTakeProfit":0.015,
+
+        "gridLevelRange": 0.03,
+        "profitFilter": 0.015,
+        "stopLossWarningFilter": 0.05,
+        "gridLevelMaxPos" : 6,
+        "takeProfit" : 0.01,
+        "rencentHighLowBars": 200,
+        "lot" : 2,
+        "orderWaitingTime" : 15  ,
+
+        "waitForCloseMaxPos": 20,
+        "grid0MoveLimit":0.01,
+
+        "timeframeMap" : {"pivotPeriod": "2h", "highLowLimitPeriod": "1h", "moveStopLossPeriod":"1h", "envPeriod":"1h", "gridLevelPeriod":"1h"},
+        "mailAdd": ["tianrq10@163.com"]
+        }
+]

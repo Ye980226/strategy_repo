@@ -1,0 +1,39 @@
+[{
+    "lot": 80,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "timeframeMap" :
+    {"envPeriod": "30m", "signalPeriod":"15m", "tradePeriod":"1m",
+        "filterPeriod": "5m", "addPosPeriod":"5m"},
+    
+    "adxPeriod": 50,
+    "adxLowthreshold": 22,
+    "adxHighthreshold": 40,
+    "adxMaxPeriod": 40,
+
+    "hlEntryPeriod": 300,
+    "hlExitPeriod": 55,
+    
+    "volPeriod": 30,
+    "lowVolThreshold":0.0018,
+    "highVolThreshold":0.02,
+
+    "stopControlTime": 4,
+    "takeProfitPct": 0.08,
+
+    "dsPeriod": 35,
+    "dsThreshold":0.15,
+    "dsSemaPeriod": 22,
+    "dsLemaPeriod": 55,
+
+    "addPct":0.005,
+    "posTime": 2,
+    "lotMultipler": 0.5,
+    
+    "initVar": 1,
+    "addVar": 0.8,
+    "sign": "*"
+
+}]

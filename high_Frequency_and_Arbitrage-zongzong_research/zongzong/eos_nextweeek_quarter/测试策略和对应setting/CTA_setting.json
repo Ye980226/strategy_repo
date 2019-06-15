@@ -1,0 +1,38 @@
+[
+    {
+        "name": "EOS_thisweek_quarter",
+        "className": "FishingNoramlStrategy",
+        "symbolList": ["eos_quarter:OKEX_btc","eos_this_week:OKEX_btc"],
+        "para":["0.0065","0.001","0.001"],
+        "posSize":"1",
+        "version":"1.1.12",
+        "lagtime":"120",
+        "levelRate":"20",
+        "lasttime":"60",
+        "mailAdd":["lzs19920@163.com"]
+    },
+    {
+        "name": "EOS_thisweek_nextweek",
+        "className": "FishingNoramlStrategy",
+        "symbolList": ["eos_this_week:OKEX_btc","eos_next_week:OKEX_btc"],
+        "para":["0.0065","0.001","0.001"],
+        "posSize":"1",
+        "version":"1.1.12",
+        "lagtime":"120",
+        "levelRate":"20",
+        "lasttime":"60",
+        "mailAdd":["lzs19920@163.com"]
+    },
+    {
+        "name": "EOS_nextweek_quarter",
+        "className": "FishingNoramlStrategy",
+        "symbolList": ["eos_quarter:OKEX_btc","eos_next_week:OKEX_btc"],
+        "para":["0.0065","0.001","0.001"],
+        "posSize":"1",
+        "version":"1.1.12",
+        "lagtime":"120",
+        "levelRate":"20",
+        "lasttime":"60",
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

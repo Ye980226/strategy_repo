@@ -1,0 +1,30 @@
+[{
+    "timeframeMap" :
+    {"envPeriod": "30m", "signalPeriod":"15m", "tradePeriod": "1m",
+        "filterPeriod": "5m", "addPosPeriod":"15m"},
+    
+    "lot": 80,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+    
+    "adxPeriod":25,
+    "adxLowthreshold":18,
+    "adxHighthreshold": 50,
+    "adxMaxPeriod": 15,
+    
+    "bBandShortPeriod": 20,
+    "bBandLongPeriod": 180,
+    "bBandEntry": 3.2,
+    "bBandExit": 2.4,
+    
+    "volPeriod": 35,
+    "lowVolThreshold":0.0015,
+    "highVolThreshold":0.1,
+    "stopControlTime":2,
+    
+    "addPct":0.0066,
+    "lotMultipler":0.8,
+    "addMultipler":0.6,
+    "posTime": 2
+}]

@@ -1,0 +1,49 @@
+[
+    {
+        "name": "StrategyEOSGridV34",
+        "className": "StrategyEOSGridV34",
+        "symbolList": ["EOS-QUARTER:OKEX"],
+        "maxBarSize":300,
+        "barPeriod" : 50,
+        "continuousCalmHours" : 10,
+        "calmMAGap" : 0.02,
+        "longMALen" : 40,
+        "shortMALen" : 15,
+        "trendEMALen" : 120,
+        "slopeLen" : 60,
+        "maxSlope" : 0.001,
+        "highLowLimitMaxGap" : 0.22,
+        "ATRMaxValue" : 0.025  ,
+        "gridlist": [10,20,30,50,80,130,210],
+
+        "volume_range":[1192428, 2384857, 3575110, 4765363],
+        "para_a1":1.5,
+        "para_a2":2.1,
+        "para_a3":3,
+        "para_a4":4,
+        "para_a5":5,
+        "meanVolumeBarLens":120,
+        "dayLen":10,
+
+        "otherSideMaxGrid":30,
+        "otherSideLotProp":0.8,
+        "otherSideTakeProfit":0.015,
+
+        "gridLevelRange": 0.05,
+        "profitFilter": 0.01,
+        "stopLossWarningFilter": 0.08,
+        "gridLevelMaxPos" : 6,
+        "takeProfit" : 0.01,
+        "rencentHighLowBars": 200,
+        "initlot" : 1,
+        "orderWaitingTime" : 15  ,
+
+        "waitForCloseMaxPos": 20,
+        "grid0MoveLimit":0.005,
+
+        "timeframeMap" : {"pivotPeriod": "2h", "highLowLimitPeriod": "1h", "moveStopLossPeriod":"1h",
+            "envPeriod":"1h", "decayPosPeriod":"1h",
+            "gridLevelPeriod":"1h"},
+        "mailAdd": ["tianrq10@163.com"]
+        }
+]

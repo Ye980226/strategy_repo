@@ -1,0 +1,27 @@
+[
+    {   
+        "name":"StrategyETH_DI",
+        "className":"Strategy_signalDI",
+        "mailAdd":["trading@fxdayu.com"],
+        "symbolList":["eth.usd.q:okef"],
+        "posSize":10,
+        "miniTick":0.01,
+        "addTick":10,
+        "diPeriod":"15m",
+        "fastPeriod":20, 
+        "slowPeriod":70, 
+        "DIshield":10,
+        "ADXPeriod":"30m",
+        "ADXpara":45,
+        "ADXshield_up":80,
+        "ADXshield_down":20,
+        "atrPeriod":30,
+        "atrShield":0.0,
+        "addPercent":0.015,
+        "stopLoss":0.04,
+        "maxPos":1,
+        "timeStopLoss":210, 
+        "signalWait":180, 
+        "timeframeMap":["15m","30m"]  
+    }
+]

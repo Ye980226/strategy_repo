@@ -1,0 +1,42 @@
+[{
+    "name": "MG_Btc_sky",
+    "className": "MAGlueStrategy",
+    "symbolList": ["BTC-QUARTER:OKEX"],
+    "mailAdd":["trading@fxdayu.com"],
+    "timeframeMap" :
+    {"envPeriod": "30m", "tradePeriod":"1m","filterPeriod": "5m"},
+    
+    "lot": 20,
+    "orderTime":2,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "Window1":10,
+    "Window2":20,
+    "Window3":30,
+    "Window4":40,
+
+    "SMaPeriod":15,
+    "LMaPeriod":45,
+    "signalMaType":2,
+
+    "adxPeriod":20,
+    "adxMaPeriod":25,
+    "adxMaType":1,
+    "adxThreshold":22,
+
+    "stay_bar":7,
+    "back_bar":15,
+    "agg_throld":0.8,
+    
+    "stopControlTime":1,
+
+    "takeProfitPct": 0.04,
+    "stopLossPct": 0.03,
+   
+    "holdTime": 360000,
+    "expectReturn":0.001,
+    
+    "lotMultiplier":0.8,
+    "posTime": 2
+}]

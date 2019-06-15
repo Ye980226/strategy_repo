@@ -1,0 +1,46 @@
+[{
+    "name": "adxDiBtc",
+    "className": "adxDiStrategy",
+    "symbolList": ["BTC-QUARTER:OKEX"],
+    "mailAdd":["trading@fxdayu.com"],
+    "timeframeMap" :
+    {"envPeriod": "30m", "trendPeriod": "30m", "signalPeriod":"5m", 
+        "filterPeriod": "5m", "addPosPeriod":"15m","mergePeriod":"1m"},
+
+    "lot1": 150,
+    "lot2": 100,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "adxPeriod":30,
+    "adxMaPeriod":25,
+    "adxMaType":1,
+    "adxThreshold":18,
+
+    "diPeriod":90,
+    "signalMaPeriod":80,
+    "signalMaType":2,
+
+    "trailingPct":0.028,
+    "stopControlTime":6,
+
+    "volPeriod":50,
+    "lowVolThreshold":0.0015,
+
+    "takeProfitFirstPct":0.045,
+    "takeProfitSecondPct":0.095,
+
+
+    "changeVolatilityPeriod":20,
+    "erthreshold":0.18,
+    "erSemaPeriod":10,
+    "erLemaPeriod":30,
+
+    "addPct":0.006,
+    "posTime":2,
+
+    "initVar": 0.8,
+    "addVar": 0.8,
+    "sign": "*"
+}]

@@ -1,0 +1,42 @@
+[{
+    "name": "MG_Eth_sky",
+    "className": "MAGlueStrategy",
+    "symbolList": ["ETH-QUARTER:OKEX"],
+    "mailAdd":["trading@fxdayu.com"],
+    "timeframeMap" :
+    {"envPeriod": "30m", "tradePeriod":"1m","filterPeriod": "5m"},
+    
+    "lot": 700,
+    "orderTime":2,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "Window1":10,
+    "Window2":20,
+    "Window3":30,
+    "Window4":40,
+
+    "SMaPeriod":15,
+    "LMaPeriod":75,
+    "signalMaType":2,
+    
+    "adxPeriod":28,
+    "adxMaPeriod":25,
+    "adxMaType":1,
+    "adxThreshold":20,
+
+    "stay_bar":13,
+    "back_bar":40,
+    "agg_throld":0.8,
+
+    "stopControlTime":1,
+
+    "takeProfitPct": 0.04,
+    "stopLossPct": 0.03,
+   
+    "holdTime": 360000,
+    "expectReturn":0.001,
+    
+    "lotMultiplier":0.8,
+    "posTime": 2
+}]

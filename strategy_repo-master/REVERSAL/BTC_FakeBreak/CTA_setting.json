@@ -1,0 +1,37 @@
+[
+    {
+        "name": "StrategyBTCFakeBreak",
+        "className": "StrategyBTCFakeBreak",
+        "symbolList": ["BTC-QUARTER:OKEX"],
+        "maxBarSize":300,
+
+        "corrLen":10,
+        "posRange":[5, 25],
+        "negDirPctRange":[0.002, 0.025],
+        "sameDirPctLimit":0.005,
+        "minCorrLong2":-0.95,
+        "minCorrLong1":-0.85,
+        "minCorrShort1": 0.28,
+
+        "ATRLen": 20,
+        "ATRMALen": 20,
+        "minATRLimit" : 0.003,
+
+        "ADXLen" : 55 ,
+        "ADXThreshold" : 30,
+
+        "exitCorrLong":0.96,
+        "exitCorrLongRange":[-0.4, 0.9],
+        "takeProfit" : 0.04,
+        "stopLoss": 0.02,
+        "holdWaitingTime" : 18000,
+        "expectedReturn":0,
+
+        "lot" : 2,
+        "orderWaitingTime" : 15  ,
+
+        "timeframeMap" : {"trendPeriod": "1h", "volPeriod": "15m", "entrySigPeriod":"15m","exitSigPeriod":"15m"},
+
+        "mailAdd": ["tianrq10@163.com"]
+        }
+]

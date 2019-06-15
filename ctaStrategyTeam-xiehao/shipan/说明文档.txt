@@ -1,0 +1,16 @@
+1.策略逻辑
+策略在30分钟周期运行
+进场主要看3个指标：trend，cross，wave
+多头进场(30Min)：trend==1，cross==1，wave==1  ------->   多头出场(1Min)：bar.close<Ma_exit(止损） 或者 bar.close>longexit(12%止盈）
+空头进场(30Min)：trend==1，cross==-1，wave==-1 ------->   空头出场(1Min)：bar.close>shortStop(4%止损)  或者  bar.close<shortexit(12%止盈）
+fixsize为下单手数，策略为加仓模型，最多加3次仓，以第一次下单1手，若加满仓，则共15手（1,2,4,8）
+使用参数n控制加仓次数
+使用参数flag和字典firstpos保存第一次开仓的价格
+
+
+2. 对已有的策略进行复盘（signalCheck.ipynb）
+回测添加engine.setLog(True, path="./log/")会获得_日志.csv_交割单（看下单时间）
+先用OKEX的分钟数据回测（注意清理本地缓存），核对信号与下单的时间点，如果有不对需要检查是数据的问题（用Bar数据检查）还是指标计算（算法对不同长度的历史数据检查）的问题，或者有可能是引擎的问题。
+实盘的Temp文件里会有日志。
+模板就是针对两个文件进行对比。
+

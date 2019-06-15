@@ -1,0 +1,28 @@
+[
+    {   
+        "name": "StrategyTest_DI",
+        "className": "Strategy_signalDI",
+        "mailAdd":["trading@fxdayu.com"],
+        "symbolList":["ltc.usd.q:okef"],
+        "posSize":10,
+        "miniTick":0.001,
+        "addTick":5,
+        "diPeriod":"15m",
+        "fastPeriod":10, 
+        "slowPeriod":80, 
+        "DIshield":10,
+        "DImaPeriod":1,
+        "ADXPeriod":"30m",
+        "ADXpara":45,
+        "ADXshield_up":70,
+        "ADXshield_down":20,
+        "atrPeriod":30,
+        "atrShield":0.1,
+        "addPercent":0.015,
+        "stopLoss":0.04,
+        "maxPos":1,
+        "timeStopLoss":180, 
+        "signalWait":180, 
+        "timeframeMap":["15m","30m"]  
+    }
+]

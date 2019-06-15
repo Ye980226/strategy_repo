@@ -1,0 +1,15 @@
+[
+    {
+        "name": "EOSBalance",
+        "className": "TickBaseStrategy",
+        "symbolList": ["eos_quarter:OKEX_btc"],
+        "takeProfit":0.014,
+        "stopLoss":0.025,
+        "gap":0.013,
+        "posSize":1,
+        "maxnumber":3,
+        "waitMins":60,
+        "otherSign":0,
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

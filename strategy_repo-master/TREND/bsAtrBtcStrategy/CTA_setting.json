@@ -1,0 +1,34 @@
+[{
+    "timeframeMap" :
+    {"envPeriod": "30m", "signalPeriod":"10m", "tradePeriod":"1m",
+        "filterPeriod": "5m", "addPosPeriod":"5m"},
+    
+    "lot": 500,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+
+    "adxPeriod": 25,
+    "adxMaPeriod": 40,
+    "adxLowThreshold": 12,
+    "adxMaxThreshold": 45,
+    
+    "smaPeriod": 20,
+    "lmaPeriod": 80,
+    "atrPeriod": 20,
+    "atrSmallMultiplier": 11,
+    "atrBigMultiplier": 18,
+
+    "volPeriod": 40,
+    "lowVolThreshold":0.0015,
+
+    "stopControlTime":1,
+    
+    "corPeriod": 30,
+    "maCorPeriod": 25,
+    
+    "addPct":0.008,
+    "lotMultiplier": 0.5,
+    "addMultiplier": 0.8,
+    "posTime": 2
+}]

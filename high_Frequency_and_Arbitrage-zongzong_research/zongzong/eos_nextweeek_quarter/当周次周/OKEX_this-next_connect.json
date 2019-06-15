@@ -1,0 +1,8 @@
+{
+    "apiKey": "",
+    "secretKey": "",
+    "trace": false,
+    "symbols":[],
+    "contracts":["eos_this_week","eos_next_week"],
+    "note":"nextweek_and_thisweek_arb"
+}

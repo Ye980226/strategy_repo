@@ -1,0 +1,34 @@
+[
+    {
+        "name": "leon_bch",
+        "className": "Strategy_Arbitrage",
+        "symbolList": ["bch_quarter:OKEX_YE","bch_this_week:OKEX_YE"],
+        "mailAdd":"18955993726@163.com"
+    },
+    {
+        "name": "leon_eth",
+        "className": "Strategy_Arbitrage",
+        "symbolList": ["eth_quarter:OKEX_YE","eth_this_week:OKEX_YE"],
+        "mailAdd":"18955993726@163.com"
+    },
+    {
+        "name": "leon_eos",
+        "className": "Strategy_Arbitrage",
+        "symbolList": ["eos_quarter:OKEX_YE","eos_this_week:OKEX_YE"],
+        "mailAdd":"18955993726@163.com"
+    },
+    {
+        "name": "leon_eos_restore",
+        "className": "Strategy_Arbitrage_Restore",
+        "symbolList": ["eos_quarter:OKEX_YE","eos_this_week:OKEX_YE"],
+        "mailAdd":"hanqi.huang@fxdayu.com"
+
+    },
+    {
+        "name": "leon_eth_restore",
+        "className": "Strategy_Arbitrage_Restore",
+        "symbolList": ["eth_quarter:OKEX_YE","eth_this_week:OKEX_YE"],
+        "mailAdd":"hanqi.huang@fxdayu.com"
+
+    }
+]

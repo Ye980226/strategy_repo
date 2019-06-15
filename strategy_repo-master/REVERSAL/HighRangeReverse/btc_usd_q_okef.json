@@ -1,0 +1,28 @@
+[
+    {
+        "name": "StrategyHighRangeRev",
+        "className": "StrategyHighRangeRev",
+        "symbolList": ["BTC-QUARTER"],
+        "maxBarSize":1440,
+
+        "ATRPeriod":40,
+        "ATRLimit":0.0075,
+
+        "leftRiseBarNum":60,
+        "leftRiseRange":0.025,
+        "RiseReverseBars":120,
+        "RisePointGap":0.02,
+        "RiseProp":0.75,
+
+        "leftFallBarNum":20,
+        "leftFallRange":0.025,
+        "FallReverseBars":30,
+        "FallPointGap":0.01,
+        "FallProp":0.5,
+
+        "takeProfit":0.02,
+
+        "orderWaitingTime":3,
+        "lot":40
+        }
+]

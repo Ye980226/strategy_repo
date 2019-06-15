@@ -1,0 +1,22 @@
+[
+    {
+        "name": "StrategyRetTrend",
+        "className": "StrategyRetTrend",
+        "symbolList": ["ETH-QUARTER:OKEX"],
+        "maxBarSize":1500,
+
+        "meanRetBars": 150,
+        "madParam" : 3,
+
+        "maxRetMeanListSize":1200,
+        "EMAPeriod" : 15,
+        "meanEMAPeriod" : 250,
+        "maDiff":0.00008,
+
+        "lot" : 1000,
+        "maxPos" : 2000,
+        "orderWaitingTime" : 3,
+
+        "timeframeMap" : {"sigPeriod": "5m"}
+        }
+]

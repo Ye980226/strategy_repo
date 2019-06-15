@@ -1,0 +1,23 @@
+{
+	"fontFamily": "SimHei",
+	"fontSize": 10,
+
+	"mongoHost": "192.168.1.101",
+	"mongoPort": 27017,
+	"mongoLogging": false,
+
+	"darkStyle": true,
+	"language": "chinese",
+
+	"logActive": true,
+	"logLevel": "debug",
+	"logConsole": true,
+	"logFile": true,
+
+	"tdPenalty": ["IF", "IH", "IC"],
+
+	"mailAccount":"dayu001@fxdayu.com",
+	"mailPass":"Xinger520",
+	"mailServer":"smtp.exmail.qq.com",
+	"mailPort":"465"	
+}

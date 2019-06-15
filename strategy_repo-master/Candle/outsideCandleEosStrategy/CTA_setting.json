@@ -1,0 +1,26 @@
+[{
+    "timeframeMap" :
+    {"signalPeriod":"5m","candlePeriod":"1m", "addPosPeriod":"5m"},
+
+    "lot": 500,
+    "orderTime":4,
+    "totalSecond" :30,
+    "stepSecond": 5,
+    
+    "rsiPeriod": 40,
+    "rsiUpThreshold": 55,
+    "rsiDnThreshold" : 45,
+    "volumeMaPeriod" : 30,
+    "volumeStdMultiple":2,
+    "hlPct": 0.007,
+    "cPct" : 0.004,
+    "minShadowPct":0.005,
+    "entityMultiple": 20,
+
+    "takeProfitPct":0.018,
+    "stopLossPct":0.035,
+    "holdTime": 35400,
+    "addPct":0.012,
+    "posTime": 2,
+    "addMultipler": 0.8
+}]

@@ -1,0 +1,24 @@
+[
+    {
+        "name": "EOSArbitrage",
+        "className": "ArbitrageStrategy",
+        "symbolList": ["eos_quarter:OKEXF_xxx","eos_this_week:OKEXF_xxx"],
+        "posSize_day":1,
+        "posSize_night":1,
+        "maxPos_day":4,
+        "maxPos_night":4,
+        "forming":30,
+        "startTT":30,
+        "startSS":30,
+        "startTS":7200,
+        "marketRatio":5,
+        "contractMintick":0.001,
+        "stopLossMarginCall":1.5,
+        "stopLoss_Ratio":2,
+        "slipper":3,
+        "spreadBand":0.0005,
+        "floors":[0.007,0.009],
+        "rever_floors":[0.001,0.001],
+        "mailAdd":["lzs19920@163.com"]
+    }
+]

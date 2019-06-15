@@ -1,0 +1,27 @@
+[
+    {   
+        "name":"Strategy_DI",
+        "className":"Strategy_signalDI",
+        "mailAdd":["trading@fxdayu.com"],
+        "symbolList":["btc.usd.q:okef"],
+        "posSize":10,
+        "miniTick":0.01,
+        "addTick":10,
+        "diPeriod":"15m",
+        "fastPeriod":20, 
+        "slowPeriod":60, 
+        "DIshield":10,
+        "ADXPeriod":"30m",
+        "ADXpara":50,
+        "ADXshield_up":80,
+        "ADXshield_down":20,
+        "atrPeriod":30,
+        "atrShield":0.0,
+        "addPercent":0.01,
+        "stopLoss":0.03,
+        "maxPos":1,
+        "timeStopLoss":210, 
+        "signalWait":180, 
+        "timeframeMap":["15m","30m"]  
+    }
+]

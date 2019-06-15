@@ -1,0 +1,11 @@
+{
+    "apiKey": "20058187-21dd-4075-b647-ae5e1babb50e",
+    "secretKey": "50B145FA2304401519EB8F6F4213F6B5",
+    "trace": false,
+    "symbols":["btc_usdt","ltc_btc","bch_eth"],
+    "contracts":["btc_this_week","btc_next_week","btc_quarter",
+        "bch_this_week","bch_next_week","bch_quarter",
+        "eth_this_week","eth_next_week","eth_quarter",
+        "eos_this_week","eos_next_week","eos_quarter",
+        "ltc_this_week","ltc_next_week","ltc_quarter"]
+}

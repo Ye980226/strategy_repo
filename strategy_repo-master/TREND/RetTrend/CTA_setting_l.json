@@ -1,0 +1,21 @@
+[
+    {
+        "name": "StrategyEOSRetTrend",
+        "className": "StrategyEOSRetTrend",
+        "symbolList": ["EOS-QUARTER:OKEX"],
+        "maxBarSize":1000,
+
+        "meanRetBars": 150,
+        "madParam" : 3,
+
+        "maxRetMeanListSize":1000,
+        "EMAPeriod" : 130,
+        "meanEMAPeriod" : 300,
+        "maDiff":0.0001,
+
+        "lot" : 1,
+        "orderWaitingTime" : 3,
+
+        "timeframeMap" : {"sigPeriod": "5m"}
+        }
+]

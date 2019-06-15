@@ -1,0 +1,31 @@
+[
+    {
+    "name": "StrategyADX_macd",
+    "className": "StrategyADX_macd",
+    "symbolList": ["EOS-QUARTER:OKEX_fxdayu03"],
+    "mailAdd":["trading@fxdayu.com"],
+    "posSize":1,
+    "addTick":5,
+    "miniTick":0.001,
+    "macdPeriod":"15m",
+    "fastPeriod":60,
+    "fastMaType":1,
+    "slowPeriod":100,
+    "slowMaType":1,
+    "signalPeriod":20,
+    "signalMaType":2,
+    "lagPeriod":10,
+    "minPeriod":10,
+    "maxPeriod":300,
+    "ADXPeriod":"30m",
+    "ADXpara":55,
+    "ADXshield_up":20,
+    "ADXshield_down":0,
+    "addPercent":0.02,
+    "stopLoss":0.05,  
+    "maxPos":1,
+    "timeStopLoss":180, 
+    "signalWait":10,
+    "timeframeMap":["15m","30m"]
+    }
+]
